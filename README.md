@@ -1,4 +1,4 @@
-# Portfolio
+# Projects
 Projects that i have been doing so far
 1. Human Activity Recognition with Machine Learning
 Human activity recognition is the problem of classifying sequences of data recorded by specialized harnesses or smartphones into known well-defined Human activities.
