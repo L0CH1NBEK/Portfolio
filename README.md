@@ -11,3 +11,6 @@ This is the process of looking at data and creating a binary classification usin
 4. Bitcoin Price Prediction with Machine Learning
 Bitcoin is the very first decentralized digital currency. This means this is not being governed by the government or by any central bank or any other authority.
 In this project, you will learn to build your Python program with the Machine Learning algorithm, Support Vector Machines, so you can start trading and making money.
+5. Movie Recommendation System with Machine Learning
+Recommendation systems are becoming increasingly important in today’s busy world. People are always short with their time and try to accomplish the work in their limited 24 hours.
+The purpose of a recommendation system is basically to search for content that would be interesting to an individual. In this project, you will learn to create a Movie Recommendation system with Machine Learning.
